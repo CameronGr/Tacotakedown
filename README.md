@@ -8,10 +8,10 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=arch" /><br/>
-<img src="https://skillicons.dev/icons?i=cpp,rust,c,cs,ts,go,py,html,sass,lua" /><br/>
-<img src="https://skillicons.dev/icons?i=cmake,dotnet,react,solidjs,tailwindcss,vite,qt,tauri,electron,wasm" /><br/>
-<img src="https://skillicons.dev/icons?i=clion,webstorm,rider,neovim,vscodium" />
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=archlinux" /><br/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=rust,cpp,csharp,typescript,golang,python,html,sass,lua" /><br/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=cmake,dotnet,reactjs,solidjs,tailwindcss,vite,qtwidgets,tauri,webassembly" /><br/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=neovim,zed" />
 
 ---
 
